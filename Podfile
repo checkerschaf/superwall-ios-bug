@@ -8,4 +8,6 @@ target 'pwa-shell' do
   # Add the pod for Firebase Cloud Messaging
   pod 'Firebase/Messaging'
 
+  pod 'SuperwallKit', '~> 3.0'
+
 end
